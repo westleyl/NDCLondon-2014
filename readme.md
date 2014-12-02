@@ -4,7 +4,8 @@
 
 ----------
 
-## Commercial Software Development - Writing Software Is Easy, Not Going Bust Is The Hard Bit ##
+## Commercial Software Development ##
+### Writing Software Is Easy, Not Going Bust Is The Hard Bit ###
 
 This repository provides the presentation given in London on 3rd December at NDC London.
 
