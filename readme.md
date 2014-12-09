@@ -25,7 +25,7 @@ We won’t focus on any particular technology or framework, instead topics will 
 
 ## Biography ##
 
-Liam Westley is an Application Architect at Huddle where he works with some of the best .Net developers and UX designers to deliver world class collaboration software. He quite likes working just oustide the City of London as there is some fantastic food and coffee to be had within a few minutes walk.
+Liam Westley is an Application Architect at Huddle where he works with some of the best .Net developers and UX designers to deliver world class collaboration software. He quite likes working just outside the City of London as there is some fantastic food and coffee to be had within a few minutes' walk.
 
 Previous to Huddle Liam worked at Criteria MX, a digital media startup and has worked as a consultant via his own company Tiger Computer Services Ltd, specialising in software for Broadcast Television. His Niagara SMS moderation system was used by QVC UK for eight years to display SMS messages from viewers, live, on screen. Liam is also responsible for the ticketing system for Hat Trick Productions which provides e-tickets to shows such as Have I Got News For You.
 
